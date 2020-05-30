@@ -1,8 +1,4 @@
 # Response Formatter
-
-##### Author:
-    Theesh
-
 This library will help you to work with flask application without hesitating responses and exception in routes.
 
 #### How to use
