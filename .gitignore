@@ -1,0 +1,7 @@
+.idea
+venv
+LICENSE.txt
+MANIFEST
+setup.cfg
+setup.py
+dist
